@@ -1,0 +1,21 @@
+Model,Threshold,Metric,Value,CI low,CI high
+Voting,0.46,Accuracy,0.8768,0.8188,0.9275
+Voting,0.46,Sensitivity,0.9079,0.8333,0.9639
+Voting,0.46,Specificity,0.8387,0.7432,0.9216
+Voting,0.46,Precision,0.8734,0.7957,0.9405
+Voting,0.46,F1,0.8903,0.831,0.9367
+Voting,0.46,F1-weighted,0.8765,0.8188,0.9275
+Voting,0.46,ROC-AUC,0.9344,0.8864,0.9733
+Voting,0.46,PR-AUC,0.9421,0.8896,0.9811
+Voting,0.46,Brier,0.1025,0.0777,0.1302
+Voting,0.46,TN/FP/FN/TP,52/10/7/69,,
+Stacking,0.45,Accuracy,0.9058,0.8551,0.9493
+Stacking,0.45,Sensitivity,0.9342,0.8684,0.9863
+Stacking,0.45,Specificity,0.871,0.7797,0.9474
+Stacking,0.45,Precision,0.8987,0.8289,0.96
+Stacking,0.45,F1,0.9161,0.8667,0.9565
+Stacking,0.45,F1-weighted,0.9055,0.8545,0.9492
+Stacking,0.45,ROC-AUC,0.9368,0.8891,0.976
+Stacking,0.45,PR-AUC,0.9361,0.8722,0.9823
+Stacking,0.45,Brier,0.0873,0.0563,0.1221
+Stacking,0.45,TN/FP/FN/TP,54/8/5/71,,

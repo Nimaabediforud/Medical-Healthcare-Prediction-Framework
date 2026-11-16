@@ -1,0 +1,6 @@
+Model,F1 Single Split,F1 Weighted Mean,F1 Weighted Std
+AdaBoost,         0.865602,            0.8425,           0.0193
+SVC,         0.865289,            0.8447,           0.0233
+GradientBoosting,         0.865065,            0.8534,           0.0162
+LogisticRegression,         0.858974,            0.8375,           0.0310
+ExtraTrees,         0.852656,            0.8374,           0.0158
