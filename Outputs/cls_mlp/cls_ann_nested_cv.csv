@@ -1,0 +1,3 @@
+Model,roc_auc_mean,f1_w_mean,recall_mean,precision_mean,ap_mean,roc_auc_sd
+MLP (default),0.9058,0.8434,0.8585,0.8584,0.9069,0.0288
+MLP (tuned),0.9182,0.8528,0.8759,0.8609,0.9141,0.0251
