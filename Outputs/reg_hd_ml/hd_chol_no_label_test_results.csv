@@ -1,0 +1,5 @@
+Run,Model,Metric,Value,CI low,CI high
+hd_chol_no_label,Random Forest,R2,0.0051,-0.0822,0.0448
+hd_chol_no_label,Random Forest,RMSE,51.8728,44.8356,58.8963
+hd_chol_no_label,Random Forest,MAE,41.2402,35.3998,47.3578
+hd_chol_no_label,Mean predictor,R2,-0.0112,,

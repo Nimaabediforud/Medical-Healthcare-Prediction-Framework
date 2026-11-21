@@ -1,0 +1,5 @@
+Run,Model,Metric,Value,CI low,CI high
+fram_totchol_with_label,Random Forest,R2,0.1776,0.1314,0.2203
+fram_totchol_with_label,Random Forest,RMSE,40.1651,37.7944,42.6152
+fram_totchol_with_label,Random Forest,MAE,31.938,30.0844,33.9144
+fram_totchol_with_label,Mean predictor,R2,-0.0007,,

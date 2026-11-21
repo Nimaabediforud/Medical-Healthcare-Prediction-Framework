@@ -1,0 +1,5 @@
+Run,Model,Metric,Value,CI low,CI high
+hd_chol_with_label,Gradient Boosting,R2,0.0232,-0.075,0.0746
+hd_chol_with_label,Gradient Boosting,RMSE,51.3983,44.5596,58.1675
+hd_chol_with_label,Gradient Boosting,MAE,40.7301,34.6441,46.8355
+hd_chol_with_label,Mean predictor,R2,-0.0112,,

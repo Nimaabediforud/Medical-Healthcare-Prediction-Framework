@@ -1,0 +1,6 @@
+Model,Default R2,Tuned R2,Tuned SD,Diff,p (corrected),Tuned RMSE,Tuned MAE,significant (Bonferroni)
+Random Forest,0.0771,0.1299,0.0225,0.0528,0.001,40.5942,31.5031,True
+Gradient Boosting,0.117,0.1287,0.0206,0.0117,0.0432,40.6236,31.569,False
+SVR,0.1077,0.1227,0.0221,0.015,0.0443,40.7647,31.4674,False
+Elastic Net,0.0827,0.0922,0.019,0.0095,0.1292,41.4642,32.2333,False
+Ridge,0.0912,0.0921,0.0191,0.0009,0.6318,41.4645,32.2272,False

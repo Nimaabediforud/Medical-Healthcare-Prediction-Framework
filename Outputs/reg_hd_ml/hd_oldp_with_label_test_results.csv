@@ -1,0 +1,5 @@
+Run,Model,Metric,Value,CI low,CI high
+hd_oldp_with_label,Gradient Boosting,R2,0.3326,0.1742,0.4621
+hd_oldp_with_label,Gradient Boosting,RMSE,0.9196,0.7336,1.1001
+hd_oldp_with_label,Gradient Boosting,MAE,0.6334,0.5242,0.7512
+hd_oldp_with_label,Mean predictor,R2,-0.014,,
