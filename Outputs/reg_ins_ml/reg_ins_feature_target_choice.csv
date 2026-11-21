@@ -1,0 +1,9 @@
+Features,Target,Best model,R2 (best),RMSE
+Baseline,raw,Gradient Boosting Regressor,0.8506878118106194,4623.3946955526035
+Smoker Eng,raw,Lasso,0.8609218414534171,4462.1393448762565
+BMI/Age Eng,raw,Gradient Boosting Regressor,0.8500389315289494,4635.4384605104015
+All Eng,raw,Lasso,0.8598077573696895,4480.258964850332
+Baseline,log,Random Forest Regressor,0.8454323146190235,4701.362250956639
+Smoker Eng,log,Random Forest Regressor,0.8456370122729385,4698.543741628425
+BMI/Age Eng,log,Random Forest Regressor,0.8475124542619157,4672.586707441966
+All Eng,log,Random Forest Regressor,0.8467122112232062,4683.494220566095

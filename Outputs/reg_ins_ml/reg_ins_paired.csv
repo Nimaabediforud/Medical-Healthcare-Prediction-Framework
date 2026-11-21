@@ -1,0 +1,8 @@
+Compared with,R2 diff (Lasso - model),p (corrected),significant (Bonferroni)
+Ridge,0.0003,0.504,False
+Elastic Net,0.0003,0.4734,False
+SVR,0.0077,0.045,False
+K-Neighbors,0.0221,0.0067,True
+Random Forest,0.0047,0.0434,False
+Extra Trees,0.0007,0.7745,False
+Gradient Boosting,0.0043,0.059,False
